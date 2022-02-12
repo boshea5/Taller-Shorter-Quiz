@@ -2,6 +2,10 @@ body {
     background-color: aqua;
 }
 
+.h1 {
+    text-align: center;
+}
+
 .NameOfTheGame {
     margin: 25%;
     width: 50%;
@@ -25,4 +29,13 @@ body {
     border: 5px solid red;
     padding: 10px;
     text-align: center;
+  }
+
+  .scores {
+    margin: 25%;
+    width: 50%;
+    border: 5px solid red;
+    padding: 10px;
+    text-align: center;
+
   }

@@ -9,16 +9,40 @@
   </head>
   <body>
 
+    <div>
     <h1 class="NameOfTheGame">The Taller or Shorter Quiz</h1>
+</div>
+    
     
     <div class="questions">
             <h1>Question</h1>
+            Q1. What is The Tallest Building in Ireland<br>
+            <input type="radio" name="question1" id="correct1">Liberty Hally <br>
+            <input type="radio" name="question1">Cork Opera House <br>
+            <input type="radio" name="question1">Croke Park <br>
+            <input type="radio" name="question1">Galway G.P.O <br>
+            
+            Q1. What is the Shortest Distance you can Travel on the Subway in Ireland<br>
+            <input type="radio" name="question2" >29 miles <br>
+            <input type="radio" name="question2">85 miles<br>
+            <input type="radio" name="question2" id="correct2">O miles <br>
+            <input type="radio" name="question2">267 miles <br>
+            
+            Q1. Which is the shortes City in distance to Dublin ?<br>
+            <input type="radio" name="question3" >Cork <br>
+            <input type="radio" name="question3"id="correct3">Liverpool <br>
+            <input type="radio" name="question3">Belfast <br>
+            <input type="radio" name="question3">Kilkenny <br>
          </div>
 
          <div class="answers">
-             <h1>Answer</h1>
-             <button class="ans btn">Its Taller</button>
-             <button class="ans btn">Its Shorter</button>
+             <h1>Your Answer</h1>
+             <input type="submit" name="submit" value="SubmitQuiz" onClick="result()">
+         </div>
+
+         <div class="score-area">
+             <p class="scores">Correct Answers<span id="score">0</span></p>
+             <p class="scores">Incorrect Answers<span id="incorrect">0</span></p>
          </div>
 
     <script src="assets/js/script.js"></script>
