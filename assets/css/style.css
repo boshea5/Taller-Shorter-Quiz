@@ -1,45 +1,11 @@
-body {
-    background-color: aqua;
+
+.questionbox{
+  margin: 10px;
+  padding: 5px;
+  width: 80%;
+  height: 100px;
+  background-color:green;
+  font-size: x-large;
+  text-align: center;
+    
 }
-
-.h1 {
-    text-align: center;
-}
-
-.NameOfTheGame {
-    margin: 25%;
-    width: 50%;
-    border: 5px solid yellow;
-    padding: 10px;
-    text-align: center;
-  }
-
-
-.questions {
-    margin: 25%;
-    width: 50%;
-    border: 5px solid green;
-    padding: 10px;
-    text-align: center;
-  }
-
-  .answers {
-    margin: 25%;
-    width: 50%;
-    border: 5px solid red;
-    padding: 10px;
-    text-align: center;
-  }
-
-  .scores {
-    margin: 25%;
-    width: 50%;
-    border: 5px solid red;
-    padding: 10px;
-    text-align: center;
-
-  }
-
-  .btn {
-    font-size: 2.4rem
-  }
