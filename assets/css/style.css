@@ -24,7 +24,7 @@
   margin: 10px;
   padding: 5px;
   width: 80%;
-  height: 100px;
+  height: 250px;
   background-color:whitesmoke;
   font-size: x-large;
   text-align: center;
@@ -44,10 +44,10 @@
 
 .answerbuttons{    
   padding: 30px;
-  width: 15px;
+  width: 50%;
   height: 10px;
   font-size: 15px;
   background-color: gold;
-  border-radius: 25%;
+  border-radius: 35%;
   text-align: center;
 }
