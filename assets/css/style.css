@@ -24,7 +24,7 @@
   margin: 10px;
   padding: 5px;
   width: 80%;
-  height: 80px;
+  height: 100px;
   background-color:whitesmoke;
   font-size: x-large;
   text-align: center;
@@ -42,3 +42,12 @@
   text-align: center;
 }
 
+.answerbuttons{    
+  padding: 30px;
+  width: 15px;
+  height: 10px;
+  font-size: 15px;
+  background-color: gold;
+  border-radius: 25%;
+  text-align: center;
+}
