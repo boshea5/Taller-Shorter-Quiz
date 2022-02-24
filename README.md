@@ -57,7 +57,14 @@ No errors were found when passing through the official (Jigsaw) validator https:
 There were 13 errors on the JS file tested using https://extendsclass.com/javascript-fiddle.html
 
 ### Deployment
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here 
 
 ### Credits
 The JavaScript code was copied and used from https://www.geeksforgeeks.org
 The questions were researched and verified using Google and Wikipedia. 
+The Deployment Steps on this read me file were copied from "Love Maths" sample Read me on the Code Institute Website
