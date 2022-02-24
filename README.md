@@ -37,6 +37,13 @@ The "check" & "next" area has two buttons. When the "check" button is pressed it
 
 ### The Results Tab
 
+![78B6797A-E8FA-4E57-AB3D-13059A670D7A](https://user-images.githubusercontent.com/96124619/155529590-dbdb5861-61a3-400d-930e-4e8e2c60774a.jpeg)
+
+![9E3D78B3-4462-41C4-A593-0527C7F53C6C](https://user-images.githubusercontent.com/96124619/155529650-7564bfb3-4262-4901-9546-32269d7b9eeb.jpeg)
+
+This are returns the result to the palyer either "True" or "False".
+
+
 
 
 `python3 -m http.server`
