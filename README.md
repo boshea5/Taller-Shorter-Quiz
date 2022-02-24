@@ -48,9 +48,11 @@ This are returns the result to the palyer either "True" or "False".
 ### Testing
 
 - HTML
-    - No errors were returned when passing through the official [W3C validator] https://validator.w3.org/nu/#textarea
+No errors were returned when passing through the official [W3C validator] https://validator.w3.org/nu/#textarea
 - CSS
 No errors were found when passing through the official (Jigsaw) validator
+- JavaScript
+There were 13 errors on the JS file tested using https://extendsclass.com/javascript-fiddle.html
 
 ### Deployment
 
