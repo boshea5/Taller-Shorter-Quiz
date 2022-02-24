@@ -68,3 +68,9 @@ The live link can be found here
 - The JavaScript code was copied and used from https://www.geeksforgeeks.org
 - The questions were researched and verified using Google and Wikipedia. 
 - The Deployment Steps on this read me file were copied from "Love Maths" sample Read me on the Code Institute Website
+
+### Future Features - Comment
+- Implementing an Increment Score counter
+- Adding supporting Images to the Quiz
+- Creating a more visual UX design 
+- Focus on understanding JS and how it implements with the DOM without relying on external code.
