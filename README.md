@@ -65,6 +65,6 @@ There were 13 errors on the JS file tested using https://extendsclass.com/javasc
 The live link can be found here 
 
 ### Credits
--The JavaScript code was copied and used from https://www.geeksforgeeks.org
--The questions were researched and verified using Google and Wikipedia. 
--The Deployment Steps on this read me file were copied from "Love Maths" sample Read me on the Code Institute Website
+- The JavaScript code was copied and used from https://www.geeksforgeeks.org
+- The questions were researched and verified using Google and Wikipedia. 
+- The Deployment Steps on this read me file were copied from "Love Maths" sample Read me on the Code Institute Website
