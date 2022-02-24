@@ -47,6 +47,10 @@ This are returns the result to the palyer either "True" or "False".
 
 ### Testing
 
+- HTML
+    - No errors were returned when passing through the official [W3C validator] https://validator.w3.org/nu/#textarea
+    - 
+
 ### Deployment
 
 ### Credits
