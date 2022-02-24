@@ -23,9 +23,15 @@ This area is where the questions are displayed. The user will get an alternative
 
 ### Area to show user to press "check" or "next"
 
+![5D3BDAF4-5535-456D-9213-7C68BE717F0A_4_5005_c](https://user-images.githubusercontent.com/96124619/155523294-a47bbbb4-101b-4a20-ab14-8fe59ce7cc92.jpeg)
+
 ### The "check" or "next" area
 
+![AE240F07-10C9-49F2-AC81-D3ACCDAA3FD1_4_5005_c](https://user-images.githubusercontent.com/96124619/155523400-49087f4e-2390-4dc1-9185-e0f1dbff3748.jpeg)
+
 ### The Results Tab
+
+
 
 `python3 -m http.server`
 
