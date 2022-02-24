@@ -73,4 +73,4 @@ The live link can be found here.
 - Implementing an Increment Score counter
 - Adding supporting Images to the Quiz
 - Creating a more visual UX design 
-- Focus on understanding JS and how it implements with the DOM without relying on external code.
+- Focus on trying to understand JS and how it implements with the DOM without relying on external code.
