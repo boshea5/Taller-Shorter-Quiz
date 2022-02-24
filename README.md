@@ -7,9 +7,19 @@ The quiz is designed to test the knowledge of the user by giving them four optio
 
 ![A19341BD-2D44-44C3-8DE1-838E4C7052ED_4_5005_c](https://user-images.githubusercontent.com/96124619/155520186-f9d02ea7-25b5-4a9c-8795-f3a753b836a2.jpeg)
 
-## Gitpod Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The game has 5 distinct features
+
+### The Question Area
+
+### The Mutiple Choice Answer Area
+
+### Area to show user to press "check" or "next"
+
+### The "check" or "next" area
+
+### The Results Tab
 
 `python3 -m http.server`
 
