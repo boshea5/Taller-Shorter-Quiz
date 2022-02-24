@@ -13,6 +13,9 @@ The game has 5 distinct features
 
 ### The Question Area
 
+![1D07B734-5382-401D-B9FF-24C70BED9631_4_5005_c](https://user-images.githubusercontent.com/96124619/155521472-d404bdb6-e2fd-4e33-991f-48894f5c53e0.jpeg)
+
+
 ### The Mutiple Choice Answer Area
 
 ### Area to show user to press "check" or "next"
