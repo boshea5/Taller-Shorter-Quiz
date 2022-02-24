@@ -47,6 +47,8 @@ This are returns the result to the palyer either "True" or "False".
 
 ### Testing
 
+The site was tested for mobile applications using the "inspect" function on Google Dev Tools. The game functions on 275,425,768 x 1175 mobile, mobile large and tablet format.
+
 - HTML
 No errors were returned when passing through the official [W3C validator] https://validator.w3.org/nu/#textarea
 - CSS
@@ -57,4 +59,5 @@ There were 13 errors on the JS file tested using https://extendsclass.com/javasc
 ### Deployment
 
 ### Credits
-
+The JavaScript code was copied and used from https://www.geeksforgeeks.org
+The questions were researched and verified using Google and Wikipedia. 
