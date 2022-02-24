@@ -2,7 +2,10 @@
 
 A quiz that asks players random questions relating to the Tallest and Shortest phenomena in Ireland. 
 
-The quiz is designed to test the knowledge of the user by giving them four options. The concept is to make the user think of the concept of "tallest and shortest" as not just a human concept but a physical one too. The quiz alos will concentrate on lesser known areas of Ireland.  **September 1, 2021**
+The quiz is designed to test the knowledge of the user by giving them four options. The concept is to make the user think of the concept of "tallest and shortest" as not just a human concept but a physical one too. The quiz alos will concentrate on lesser known areas of Ireland.
+
+
+![A19341BD-2D44-44C3-8DE1-838E4C7052ED_4_5005_c](https://user-images.githubusercontent.com/96124619/155520186-f9d02ea7-25b5-4a9c-8795-f3a753b836a2.jpeg)
 
 ## Gitpod Reminders
 
