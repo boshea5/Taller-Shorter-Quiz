@@ -62,7 +62,7 @@ There were 13 errors on the JS file tested using https://extendsclass.com/javasc
   - From the source section drop-down menu, select the Main Branch
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here. 
+The live link can be found here. https://boshea5.github.io/Taller-Shorter-Quiz/
 
 ### Credits
 - The JavaScript code was copied and used from https://www.geeksforgeeks.org
