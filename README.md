@@ -15,19 +15,25 @@ The game has 5 distinct features
 
 ![1D07B734-5382-401D-B9FF-24C70BED9631_4_5005_c](https://user-images.githubusercontent.com/96124619/155521472-d404bdb6-e2fd-4e33-991f-48894f5c53e0.jpeg)
 
-This area is where the questions are displayed. The user will get an alternative question each time based on asking them is something (a physical feature, distance etc) Taller or Shorter. Each question is devised as to make the user think about different geographical regions of Ireland in urban and rural areas. 
+This area is where the questions are displayed. The player will get an alternative question each time based on asking them is something (a physical feature, distance etc) Taller or Shorter. Each question is devised as to make the user think about different geographical regions of Ireland in urban and rural areas. 
 
 ### The Mutiple Choice Answer Area
 
 ![C0A8F3B5-8FC7-46E8-A387-48C7F6876201_4_5005_c](https://user-images.githubusercontent.com/96124619/155522272-c4dffa6a-d481-4435-a19e-afe3c22c42ce.jpeg)
 
+This section give the use an option of four answers. When the user clicks on the option they wish to choose it is highlighted in gold and the rest of the options are turned green. The options are sometimes based on aliteration eg, Limerick, Laois, Longford, Letrim to make the player iteract and think more about the answer. Also as it's geographically based the options will be either natiowide or actuall locations within the questions area. 
+
 ### Area to show user to press "check" or "next"
 
 ![5D3BDAF4-5535-456D-9213-7C68BE717F0A_4_5005_c](https://user-images.githubusercontent.com/96124619/155523294-a47bbbb4-101b-4a20-ab14-8fe59ce7cc92.jpeg)
 
-### The "check" or "next" area
+This section is to direct the player to check their answer to see if they are correct.
+
+### The "check" & "next" area
 
 ![AE240F07-10C9-49F2-AC81-D3ACCDAA3FD1_4_5005_c](https://user-images.githubusercontent.com/96124619/155523400-49087f4e-2390-4dc1-9185-e0f1dbff3748.jpeg)
+
+The "check" & "next" area has two buttons. When the "check" button is pressed it will reveal True or False in the results tab area. When the "next" tab is pressed its allows the player to move on and answer the next question.
 
 ### The Results Tab
 
