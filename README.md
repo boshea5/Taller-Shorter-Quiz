@@ -15,6 +15,7 @@ The game has 5 distinct features
 
 ![1D07B734-5382-401D-B9FF-24C70BED9631_4_5005_c](https://user-images.githubusercontent.com/96124619/155521472-d404bdb6-e2fd-4e33-991f-48894f5c53e0.jpeg)
 
+This area is where the questions are displayed. The user will get an alternative question each time based on asking them is something (a physical feature, distance etc) Taller or Shorter. Each question is devised as to make the user think about different geographical regions of Ireland in urban and rural areas. 
 
 ### The Mutiple Choice Answer Area
 
