@@ -49,7 +49,8 @@ This are returns the result to the palyer either "True" or "False".
 
 - HTML
     - No errors were returned when passing through the official [W3C validator] https://validator.w3.org/nu/#textarea
-    - 
+- CSS
+No errors were found when passing through the official (Jigsaw) validator
 
 ### Deployment
 
