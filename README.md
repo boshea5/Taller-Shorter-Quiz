@@ -19,6 +19,8 @@ This area is where the questions are displayed. The user will get an alternative
 
 ### The Mutiple Choice Answer Area
 
+![C0A8F3B5-8FC7-46E8-A387-48C7F6876201_4_5005_c](https://user-images.githubusercontent.com/96124619/155522272-c4dffa6a-d481-4435-a19e-afe3c22c42ce.jpeg)
+
 ### Area to show user to press "check" or "next"
 
 ### The "check" or "next" area
